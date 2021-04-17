@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo rm -rf /opt/pycharm-community 
+rm ~/.local/share/applications/jetbrains-pycharm-ce.desktop || error "Failed to delete desktop entry"
