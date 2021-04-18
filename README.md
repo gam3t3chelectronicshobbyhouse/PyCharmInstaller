@@ -27,4 +27,5 @@ Wesley Gardner</br>
 Gam3t3ch Electronics</br>
 https://youtube.com/gam3t3chelectronics</br>
 gam3t3ch@gmail.com</br>
-
+</br></br>
+<center>[![check the video out here!(https://img.youtube.com/vi/YEyYCzq-igPQ/0.jpg)](https://youtu.be/EyYCzq-igPQ)</center>
