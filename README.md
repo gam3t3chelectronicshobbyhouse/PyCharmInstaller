@@ -1,4 +1,5 @@
 # PyCharmInstaller
+<br><br><center>You can follow along on youtube at: https://youtu.be/2tS1UfC9rPk</br></br></center>
 </br>
 Thank you to Pi-Apps for giving me credit in Pi-Apps.</br>
 Anyone that uses Pi-Apps https://github.com/Botspot/pi-apps/</br>
