@@ -1,5 +1,5 @@
 # PyCharmInstaller
-<center><a href="https://youtu.be/2tS1UfC9rPk" Target="new">Click Here to Watch the Video Install</a></br></center>
+<center><a href="https://youtu.be/2tS1UfC9rPk" target="_blank">Click Here to Watch the Video Install</a></br></center>
 </br>
 Thank you to Pi-Apps for giving me credit in Pi-Apps.</br>
 Anyone that uses Pi-Apps https://github.com/Botspot/pi-apps/</br>
