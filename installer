@@ -17,7 +17,7 @@ sudo apt-get install openjdk-11-jdk
 #Removing if pycharm-community-2021.1.1.tar.gz already downloaded
 rm $name.tar.gz
 
-#Removing pycharm-community-2021.1 if already extracted
+#Removing pycharm-community-2021.1.1 if already extracted
 sudo rm -r /opt/$name
 
 #Downloading pycharm-community-2021.1.1.tar.gz
