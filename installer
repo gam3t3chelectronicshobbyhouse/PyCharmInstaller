@@ -8,27 +8,27 @@ exit 1
 }
 
 #Defining Variables
-downloadlink=https://download.jetbrains.com/python/pycharm-community-2021.3.1.tar.gz
+downloadlink=https://download.jetbrains.com/python/pycharm-community-2021.3.3.tar.gz
 name=pycharm
 
 # Get dependencies
 sudo apt-get install openjdk-11-jdk 
 
-#Removing if pycharm-community-2021.3.1.tar.gz already downloaded
+#Removing if pycharm-community-2021.3.3.tar.gz already downloaded
 rm $name.tar.gz
 
-#Removing pycharm-community-2021.3.1 if already extracted
+#Removing pycharm-community-2021.3.3 if already extracted
 sudo rm -r /opt/$name
 
-#Downloading pycharm-community-2021.3.1.tar.gz
+#Downloading pycharm-community-2021.3.3.tar.gz
 wget $downloadlink -O $name.tar.gz
 
-#Extracting pycharm-community-2021.3.1.tar.gz to /opt
+#Extracting pycharm-community-2021.3.3.tar.gz to /opt
 sudo mkdir /opt/$name
 sudo tar xvzf $name.tar.gz -C /opt/$name
 sudo mv /opt/$name/*/* /opt/$name/
 
-#Deleting pycharm-community-2021.3.1.tar.gz
+#Deleting pycharm-community-2021.3.3.tar.gz
 rm $name.tar.gz
 
 #Making file executable
