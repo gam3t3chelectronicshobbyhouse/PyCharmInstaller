@@ -1,4 +1,4 @@
-# PyCharmInstaller  (current ver 2021.3.3)
+# PyCharmInstaller  (current ver 2022.1.2)
 <center><a href="https://youtu.be/2tS1UfC9rPk" target="_blank">Click Here to Watch the Video Install</a></br></center>
 </br>
 Thank you to Pi-Apps for giving me credit in Pi-Apps.</br>
@@ -13,6 +13,8 @@ I have taken their script and altered it to be a standalone as sometimes newer v
 but applications are not updated quickly enough for people to benefit from it.</br>
 </br>
 If you are using one of the patch files at the moment this method is not working and I would recommend using the installer here</br>
+</br>
+((update:) Pi-Apps as of 06-15-2022 has current 2022.1.2 version script available.)
 </br>
 PyCharm currently as of April 17th on Pi-Apps is at version 2020.3.5 which if you can update to that you will have</br>
 no issues once the install is available to upgrade to 2021.1 which I assume they will do soon.</br>
