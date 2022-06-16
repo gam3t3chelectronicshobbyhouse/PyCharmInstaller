@@ -2,8 +2,25 @@
 <center><a href="https://youtu.be/2tS1UfC9rPk" target="_blank">Click Here to Watch the Video Install</a></br></center>
 </br>
 Thank you to Pi-Apps for giving me credit in Pi-Apps.</br>
-Anyone that uses Pi-Apps https://github.com/Botspot/pi-apps/</br>
-you will love it.</br>
+Anyone not using Pi-Apps https://github.com/Botspot/pi-apps/</br>
+You will love it start using it.</br>
+</br></br>
+Quick installer:</br>
+download and extract code to your Downloads folder</br>
+open terminal Ctrl+T on your keyboard</br>
+Type: cd Downloads  (Hit Enter) </br>
+Type: cd PyCharmInstaller-main (Hit Enter)</br>
+Type: sudo bash installer (Hit Enter)</br>
+Allow the installer to finish. Once finished </br>
+you may not have the icon for pycharm in your icons </br>
+you will have to launch PyCharm in terminal</br>
+Type: cd /opt/pycharm/bin  (Hit Enter) </br>
+Type: bash pycharm.sh </br>
+(note: you may need sudo launch pycharm to run some updates through the program)</br>
+when you start it up you should have a gear icon and be able to add shortcut from there </br>
+If not then you can launch PyCharm and on the top menu bar</br>
+goto-->Tools select Create Desktop Entry</br>
+This should add it to your programming tab and/or put a icon on the desktop</br>
 </br></br>
 Now if you are using Pi-Apps eventually your program will update but do not update through the program.</br>
 If you do update through pi-apps you can adjust the program to install the 2021.1 version of PyCharm</br>
