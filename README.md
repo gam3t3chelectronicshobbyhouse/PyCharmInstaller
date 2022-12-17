@@ -1,4 +1,7 @@
 # PyCharmInstaller  (current ver 2022.3)
+</br>
+<center>2022.3 is currently not working I am working on the installer now hope to have it completed soon (Gam3t3ch 2022-12-17)</center>
+</br>
 <center><a href="https://youtu.be/2tS1UfC9rPk" target="_blank">Click Here to Watch the Video Install</a></br></center>
 </br>
 Thank you to Pi-Apps for giving me credit in Pi-Apps.</br>
